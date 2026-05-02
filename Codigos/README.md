@@ -1,0 +1,1 @@
+Los códigos desarrollados en este proyecto abarcan la implementación de la cinemática directa e inversa, el control del brazo manipulador, la generacion de la interfaz en .ui. Cada codigo fue utilizado para lograr el funcionamiento del proyecto.
